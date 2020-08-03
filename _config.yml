@@ -3,9 +3,9 @@ contactform:
     to work on your side.
   emailconfig: abc
 facts:
-  experience: 5
-  projects: 25
-  customers: 100
+  experience: 1
+  projects: 2
+  customers: 1
 keywords: portfolio, website, netlify, jekyll, keyur, patel, keyurpatel,
   bhutkeyur, bhut_keyur, bhut
 author:
