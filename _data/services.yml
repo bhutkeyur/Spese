@@ -1,24 +1,36 @@
 service:
   - order: "01"
-    name: Web Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
+    name: Web Development
+    description: |-
+      ⦿ Client Oriented Service
+      ⦿ Intrigue your Visitors
+      ⦿ SEO Friendly
+      ⦿ Customized to suit specific needs
+      ⦿ Packages to suit every pocket
+      ⦿ Excellent support and free maintenance service
   - order: "02"
     name: Web Design
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
+    description: |-
+      ⦿ Flexible & Innovative Solution
+      ⦿ Designs that Intrigue your Visitors
+      ⦿ One Stop Solution
+      ⦿ Customized to suit specific needs
+      ⦿ Packages to suit every pocket
+      ⦿ Excellent support and free maintenance service
   - order: "03"
-    name: Web Development
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
+    name: Graphic Designing
+    description: |-
+      ⦿ Business Card Design
+      ⦿ Logo Design
+      ⦿ Flyer Design
+      ⦿ Stationery Design
+      ⦿ Merchandize Design
   - order: "04"
-    name: Graphics Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
-  - order: "05"
-    name: Design Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
-  - order: "06"
-    name: Dev Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
+    name: Digital Marketing
+    description: |-
+      ⦿ 360° Analysis
+      ⦿ Competitor Analysis
+      ⦿ Conversion Monitoring
+      ⦿ On/Off-page Optimization
+      ⦿ Trend Analysis
+      ⦿ Social Engagement
