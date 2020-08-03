@@ -6,34 +6,38 @@ facts:
   experience: 5
   projects: 25
   customers: 100
-keywords: portfolio, website, netlify, jekyll
+keywords: portfolio, website, netlify, jekyll, keyur, patel, keyurpatel,
+  bhutkeyur, bhut_keyur, bhut
 author:
-  resumelink: https://google.com
-  name: John Doe
-  cvlink: https://google.com
-  phone: +1 123 456 7890
-  first: John
+  resumelink: /assets/uploads/resume.pdf
+  name: Keyur Patel
+  cvlink: /assets/uploads/404.html
+  phone: +91 799 023 3030
+  first: Keyur
   address: Gujarat, IN
-  last: Doe
-  dob: 01 Jan 2000
-  passion: Web Developer, Graphic Designer
+  last: Patel
+  dob: 13 Jun 2002
+  passion: Student, Software Engineer, Web Developer, Graphic Designer
   languages: English, Gujarati, Hindi
-  image: https://cdn.now.howstuffworks.com/media-content/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg
+  image: /assets/uploads/keyur.jpg
   nationality: INDIAN
-  email: support@quantumx.dev
-  description: I am a Web Developer from India. I am very passionate and dedicated
-    to my work. I have 5 years more work experience. I enjoy working in a team
-    or individual.
+  email: keyurbhut12345@gmail.com
+  description: Hello, I am an upcoming graduate offering a strong foundation in
+    software engineering and programming principles across multiple projects. I
+    quickly learn and master new technologies. I have excellent verbal and
+    written communication skills. Additionally, I have passion for keeping
+    up-to-date with latest development in the IT field. Seeking an opportunity
+    to use my knowledge to serve the society.
 social:
   facebook: mr.kaushal.p
   github: mrkp
   instagram: mr.kaushal.p
   linkedin: mrkaushalp
   twitter: mr_kaushal_p
-  website: "spece.netlify.app"
+  website: spece.netlify.app
 collections:
   portfolio:
     output: true
-title: Spese Portfolio Theme
-description: My Site
+title: Keyur Patel
+description: My Portfolio Website
 baseurl: ""
