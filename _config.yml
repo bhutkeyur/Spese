@@ -1,7 +1,8 @@
 contactform:
-  description: This is a demo contact form and does not work. You can configure it
-    to work on your side.
-  emailconfig: abc
+  description: I'm here to help and answer any question you might have. I look
+    forward to hearing from you. Fill out the form and we’ll be in touch as soon
+    as possible.
+  emailconfig: https://formspree.io/mbjzwagy
 facts:
   experience: 1
   projects: 2
